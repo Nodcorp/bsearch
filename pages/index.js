@@ -1,4 +1,4 @@
-// pages/index.js
+// pages/index.js 
 import { useEffect } from 'react';
 
 export default function Home() {
