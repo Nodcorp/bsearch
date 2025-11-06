@@ -4,7 +4,7 @@ export default async function handler(req, res) {
   let { q } = req.query;
 
 
-const baseHome = 'https://web.archive.org/web/20131001000000/http://blekko.com';
+const baseHome = 'https://web.archive.org/web/2011020700000/http://blekko.com/';
 
   let targetUrl = baseHome;
 
